@@ -1,4 +1,3 @@
 ##Teste
 readme in Main
-esse repósitório é teste da aula de github
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+esqueceu o readme aberto skksskkssksksksskkskskskkskskssksksksksskksksksks
